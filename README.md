@@ -1,0 +1,5 @@
+
+
+- Este site é feito para ajudar pessoas que estão querendo saber mais sobre o mundo da pesca e do camping, pois nem todos estão acostumados com isso. Eu passei muito tempo tentando mostrar como é bom este mundo, mas nem todos entendiam como eu o via e graças a este site, consigo mostrar a mais pessoas como este mundo é bom. 
+- Agora, falando melhor sobre o site, ele está sendo feito em homenagem ao meu pai, pois vejo o quanto ele gosta disso. A intenção é ajudar pessoas que estejam interessadas em entrar neste mundo. Normalmente não se encontra muito auxílio na pesca e no camping, ter alguém ajudando nos materiais que se devem  compram e nas marcas boas ajuda muito, principalmente quando os produtos são realmente testados. A intenção deste site é falar sobre pesca, camping e caça.
+ - Este site utilizou aproximadamente 79% de HTML e 20% de CSS. Eu visei utilizar algo bem básico apenas para testar o conhecimento em links e Balanceamento de cores, juntamente com a intenção de fazer o básico ficar visualmente chamativo ao utilizar algo tão simples.
